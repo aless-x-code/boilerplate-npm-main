@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Alessandro Campigotto",
+	"description": "first Node.js project / test",
+	"keywords": ["freecodecamp", "project"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +15,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Alessandro Campigotto"
+	}
+	
 }
